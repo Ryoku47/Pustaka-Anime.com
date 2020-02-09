@@ -1,5 +1,3 @@
-<!-- Script files -->
-<script>
 document.addEventListener('DOMContentLoaded', () => { 
   // This is the bare minimum JavaScript. You can opt to pass no arguments to setup.
   const controls = [
@@ -52,4 +50,3 @@ document.addEventListener('DOMContentLoaded', () => {
     player.forward();
   });
 });
-</script>
