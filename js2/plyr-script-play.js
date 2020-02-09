@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'mute', // Toggle mute
     'volume', // Volume control
     'settings', // Settings menu
-    'download', // Show a download button with a link to either the current source or a custom URL you specify in your options
+    '', // Show a download button with a link to either the current source or a custom URL you specify in your options
     'fullscreen', // Toggle fullscreen
   ];
   const player = new Plyr('#player', { controls });
